@@ -13,7 +13,7 @@
 # Stack
 
 - ✅ Vite
-    - Verify plugins
+  - Verify plugins
 - ✅ Typescript
 - ✅ React
 - ✅ Commitzen
