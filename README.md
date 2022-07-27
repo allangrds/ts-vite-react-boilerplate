@@ -18,8 +18,10 @@
 - ✅ React
 - ✅ Commitzen
 - ✅ Editorconfig
-- Husky
-- ESlint
+- ✅ Husky
+- ✅ ESlint
+  - ✅ Basic config
+  - More plugins and configurations
 - Prettier
 - Plop
 - Chakra
