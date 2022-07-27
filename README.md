@@ -21,8 +21,8 @@
 - ✅ Husky
 - ✅ ESlint
   - ✅ Basic config
-  - More plugins and configurations
-- Prettier
+  - ✅ More plugins and configurations
+- ✅ Prettier
 - Plop
 - Chakra
 - Storybook
