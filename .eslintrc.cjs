@@ -12,6 +12,10 @@ module.exports = {
     'airbnb',
     'plugin:json/recommended',
   ],
+  globals: {
+    JSX: true,
+    React: true,
+  },
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaFeatures: {
@@ -48,6 +52,7 @@ module.exports = {
       },
     ],
     'import/no-unresolved': 'error',
+    'import/prefer-default-export': 0,
     'max-len': [
       'error',
       {
@@ -68,6 +73,7 @@ module.exports = {
       { extensions: ['.js', '.jsx', '.ts', '.tsx'] },
     ],
     'react/react-in-jsx-scope': 'off',
+    'react/require-default-props': 0,
     semi: ['error', 'never'],
     'sort-destructure-keys/sort-destructure-keys': 2,
     'sort-keys': ['error'],

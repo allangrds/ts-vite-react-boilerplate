@@ -1,9 +1,11 @@
 import reactLogo from './assets/react.svg'
 import './App.css'
+import { Input } from './components'
 
 function App () {
   return (
     <div className="App">
+      <Input placeholder="Input" />
       <div>
         <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
           <img src="/vite.svg" className="logo" alt="Vite logo" />

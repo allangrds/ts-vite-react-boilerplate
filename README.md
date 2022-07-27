@@ -23,16 +23,17 @@
   - ✅ Basic config
   - ✅ More plugins and configurations
 - ✅ Prettier
-- Plop
-- Chakra
+- ✅ Chakra
 - Storybook
 - i18n
 - React Query
 - MSW
 - Jest
 - Playwright
-- Github Actions
-  - Build
-  - Lint
-  - Commit lint
-  - Tests
+- Cucumber
+- Plop
+- ✅ Github Actions
+  - ✅ Build
+  - ✅ Lint
+  - ✅ Commit lint
+  - ✅ Tests
