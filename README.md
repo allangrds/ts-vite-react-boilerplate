@@ -16,7 +16,6 @@
   - Verify plugins
 - ✅ Typescript
 - ✅ React
-  - Error Boundary
 - ✅ React Router
   - ✅ 404
 - ✅ Commitzen
@@ -28,7 +27,7 @@
 - ✅ Prettier
 - ✅ Chakra
 - ✅ Storybook
-- i18n
+- ✅ i18n
 - React Query
 - MSW
 - Jest
