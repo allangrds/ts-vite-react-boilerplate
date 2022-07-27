@@ -28,11 +28,12 @@
 - ✅ Chakra
 - ✅ Storybook
 - ✅ i18n
-- React Query
-- MSW
-- Jest
+- ✅ Jest
+- ✅ Testing Library
 - Playwright
 - Cucumber
+- React Query
+- MSW
 - Plop
 - ✅ Github Actions
   - ✅ Build
