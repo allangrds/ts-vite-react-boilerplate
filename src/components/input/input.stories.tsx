@@ -6,11 +6,11 @@ import { Input } from './input'
 import type { InputProps } from './input'
 
 export default {
-  title: 'Components/Input',
-  component: Input,
   argTypes: {
     backgroundColor: { control: 'color' },
   },
+  component: Input,
+  title: 'Components/Input',
 } as ComponentMeta<typeof Input>
 
 const Template: ComponentStory<typeof Input> = (args: InputProps) => (

@@ -4,12 +4,12 @@ import { colors } from './colors'
 import { components } from './components'
 
 const theme = extendTheme({
+  colors,
+  components,
+
   styles: {
     global: {},
   },
-
-  colors,
-  components,
 })
 
 export { theme }

@@ -1,11 +1,8 @@
-import {
-  BrowserRouter as Router,
-  useRoutes,
-} from 'react-router-dom'
+import { BrowserRouter as Router, useRoutes } from 'react-router-dom'
 
 import { Home } from '../modules'
 
-function RoutesList () {
+export const RoutesList = () => {
   const routes = useRoutes([
     {
       children: [
@@ -26,10 +23,8 @@ function RoutesList () {
   return routes
 }
 
-export function Routes () {
-  return (
-    <Router>
-      <RoutesList />
-    </Router>
-  )
-}
+export const Routes = () => (
+  <Router>
+    <RoutesList />
+  </Router>
+)

@@ -9,12 +9,8 @@ type ThemeProviderProps = {
   children: React.ReactNode
 }
 
-function ThemeProvider ({ children }: ThemeProviderProps) {
-  return (
-    <Provider theme={theme} resetCSS>
-      {children}
-    </Provider>
-  )
-}
-
-export { ThemeProvider }
+export const ThemeProvider = ({ children }: ThemeProviderProps) => (
+  <Provider theme={theme} resetCSS>
+    {children}
+  </Provider>
+)

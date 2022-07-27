@@ -11,7 +11,7 @@ export type InputProps = {
   placeholder: string
 }
 
-export function Input ({ icon, placeholder }: InputProps) {
+export const Input = ({ icon, placeholder }: InputProps) => {
   const styles = useStyleConfig('Input')
 
   return (

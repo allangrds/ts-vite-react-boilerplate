@@ -34,7 +34,6 @@
 - Cucumber
 - React Query
 - MSW
-- Plop
 - ✅ Github Actions
   - ✅ Build
   - ✅ Lint
