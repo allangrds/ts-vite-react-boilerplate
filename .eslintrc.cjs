@@ -38,6 +38,7 @@ module.exports = {
       {
         devDependencies: [
           'jest.setup.ts',
+          'playwright.config.ts',
           '**/*.test.js',
           '**/*.test.jsx',
           '**/*.test.ts',
