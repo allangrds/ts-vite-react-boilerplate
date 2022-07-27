@@ -1,20 +1,36 @@
 # ts-vite-react-boilerplate
 
+# Contents
+
+- [Requirements](#requirements)
+- [Stack](#stack)
+
+# Requirements
+
+- Node v16.14.2
+- NPM v8.5.0
+
 # Stack
 
 - ✅ Vite
     - Verify plugins
 - ✅ Typescript
 - ✅ React
-- Commitzen
-- Plop
+- ✅ Commitzen
+- ✅ Editorconfig
+- Husky
 - ESlint
 - Prettier
-- Editorconfig
+- Plop
+- Chakra
+- Storybook
+- i18n
+- React Query
+- MSW
 - Jest
 - Playwright
 - Github Actions
-    - Build
-    - Lint
-    - Commit lint
-    - Tests
+  - Build
+  - Lint
+  - Commit lint
+  - Tests
