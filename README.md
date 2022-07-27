@@ -24,7 +24,7 @@
   - ✅ More plugins and configurations
 - ✅ Prettier
 - ✅ Chakra
-- Storybook
+- ✅ Storybook
 - i18n
 - React Query
 - MSW
