@@ -16,6 +16,9 @@
   - Verify plugins
 - ✅ Typescript
 - ✅ React
+  - Error Boundary
+- ✅ React Router
+  - ✅ 404
 - ✅ Commitzen
 - ✅ Editorconfig
 - ✅ Husky
