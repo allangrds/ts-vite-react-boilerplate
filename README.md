@@ -30,10 +30,10 @@
 - ✅ i18n
 - ✅ Jest
 - ✅ Testing Library
+- ✅ React Query
+- ✅ MSW
 - Playwright
 - Cucumber
-- React Query
-- MSW
 - ✅ Github Actions
   - ✅ Build
   - ✅ Lint

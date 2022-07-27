@@ -23,9 +23,11 @@
     "@chakra-ui/react": "^2.2.4",
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
+    "@tanstack/react-query": "^4.0.10",
     "framer-motion": "^6.5.1",
     "i18next": "^21.8.14",
     "i18next-browser-languagedetector": "^6.1.4",
+    "msw": "^0.44.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^11.18.3",
@@ -84,5 +86,8 @@
   "volta": {
     "node": "16.14.2",
     "npm": "8.5.0"
+  },
+  "msw": {
+    "workerDirectory": "public"
   }
 }

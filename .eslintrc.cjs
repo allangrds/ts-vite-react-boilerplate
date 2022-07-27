@@ -37,6 +37,7 @@ module.exports = {
       'error',
       {
         devDependencies: [
+          'jest.setup.ts',
           '**/*.test.js',
           '**/*.test.jsx',
           '**/*.test.ts',
