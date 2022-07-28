@@ -13,7 +13,6 @@
 # Stack
 
 - ✅ Vite
-  - Verify plugins
 - ✅ Typescript
 - ✅ React
 - ✅ React Router
@@ -32,8 +31,7 @@
 - ✅ Testing Library
 - ✅ React Query
 - ✅ MSW
-- Playwright
-- Cucumber
+- ✅ Playwright
 - ✅ Github Actions
   - ✅ Build
   - ✅ Lint
